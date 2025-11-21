@@ -59,10 +59,6 @@ when two fingerprint images of different fingers were input, the network output 
 towards 0. 
 
 
-![model](https://github.com/Nitheshkamath/Fingerprint_Matching/assets/112107488/1613b2c9-f969-45a1-842f-c2c579868888)
-
-
-
 
 
 
