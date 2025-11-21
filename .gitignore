@@ -87,16 +87,19 @@ Desktop.ini
 *~
 
 # ============================================
-# Model Files (optional - uncomment if you want to ignore)
+# Model Files and Checkpoints
 # ============================================
-# *.h5
-# *.hdf5
-# *.pb
-# *.pkl
-# *.pickle
-# *.ckpt
-# *.pt
-# *.pth
+# Model checkpoints directory
+checkpoints/
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.pkl
+*.pickle
+*.ckpt
+*.pt
+*.pth
 
 # ============================================
 # Logs and Temporary Files
